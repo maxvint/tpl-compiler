@@ -1,0 +1,28 @@
+{
+  "name": "tpl-compiler",
+  "version": "0.1.0",
+  "author": "Winfrey Yu",
+  "description": "compile template to vue files for webpack",
+  "license": "MIT",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "dependencies": {
+    "loader-utils": "^1.0.2"
+  },
+  "devDependencies": {
+    "standard-version": "^4.0.0"
+  },
+  "peerDependencies": {
+    "file-loader": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuwenhui/tpl-compiler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuwenhui/tpl-compiler/issues"
+  },
+  "homepage": "https://github.com/yuwenhui/tpl-compiler",
+  "license": "MIT"
+}
